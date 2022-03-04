@@ -1,9 +1,9 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=/usr/local/Caskroom/flutter/2.10.3/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/Index/StudioProjects/flutter-chat-demo"
+export "FLUTTER_ROOT=C:\Cellar\flutter"
+export "FLUTTER_APPLICATION_PATH=C:\Users\JerryZhao\CodeProjects\2022Practice\flutter-chat-demo"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
-export "FLUTTER_TARGET=lib/main.dart"
+export "FLUTTER_TARGET=lib\main.dart"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=1.0.0"
 export "FLUTTER_BUILD_NUMBER=1"
