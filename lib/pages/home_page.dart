@@ -125,7 +125,7 @@ class HomePageState extends State<HomePage> {
     AndroidNotificationDetails androidPlatformChannelSpecifics = AndroidNotificationDetails(
       Platform.isAndroid ? 'com.dfa.flutterchatdemo' : 'com.duytq.flutterchatdemo',
       'Flutter chat demo',
-      'your channel description',
+      channelDescription: 'your channel description',
       playSound: true,
       enableVibration: true,
       importance: Importance.max,
